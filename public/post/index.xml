@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anirban Santara cheking out Hugo </title>
+    <link>http://replace-this-with-your-hugo-site.com/post/</link>
+    <language>en-us</language>
+    <author>Anirban Santara</author>
+    <rights>(C) 2016</rights>
+    <updated>2016-04-11 23:32:16 &#43;0530 IST</updated>
+
+    
+      
+        <item>
+          <title>good to great book review</title>
+          <link>http://replace-this-with-your-hugo-site.com/post/good-to-great/</link>
+          <pubDate>Mon, 11 Apr 2016 23:32:16 IST</pubDate>
+          <author>Anirban Santara</author>
+          <guid>http://replace-this-with-your-hugo-site.com/post/good-to-great/</guid>
+          <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
